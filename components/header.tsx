@@ -33,8 +33,8 @@ export default function Header() {
     { name: "Skills", href: "#skills", isHash: true },
     { name: "Projects", href: "#projects", isHash: true },
     { name: "Resume", href: "#resume", isHash: true },
-    { name: "About me - A bit more!", href: "/about-me", isHash: false },
     { name: "Contact", href: "#contact", isHash: true },
+    { name: "About me - A bit more!", href: "/about-me", isHash: false },
   ]
 
   const isActive = (href : string) => {
