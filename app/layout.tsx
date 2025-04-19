@@ -5,6 +5,9 @@ export const metadata: Metadata = {
   title: 'Abhi',
   description: '',
   generator: '',
+  icons: {
+    icon: '/ghost.jpg',
+  }
 }
 
 export default function RootLayout({
