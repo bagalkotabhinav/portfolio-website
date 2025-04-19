@@ -1,6 +1,3 @@
-Sure! Here’s a short and clean README for your **portfolio website**:
-
----
 
 ## 🌐 Abhinav Bagalkot – Portfolio
 
@@ -38,5 +35,4 @@ Then go to `http://localhost:3000`.
 The resume is available to download via the "Download CV" button on the site. To update it, just replace the `resume.pdf` file inside the `public/` folder.
 
 ---
-
-Let me know if you'd like to include a deployment link (e.g. Vercel) or add screenshots!
+https://abhinavbagalkot.netlify.app/
